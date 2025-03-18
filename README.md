@@ -1,5 +1,5 @@
 # 🏡 BukitVista Property Insights
-## Enhancing Listings Through Data Science
+Enhancing Listings Through Data Science
 
 ## Project Overview
 
