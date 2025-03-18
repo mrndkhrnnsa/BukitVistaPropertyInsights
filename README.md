@@ -27,8 +27,10 @@ To run the dashboard locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/bv-property-insights-dashboard.git
 2. Install dependencies
+   ```bash
    pip install -r requirements.txt
 3. Run streamlit app
+   ```bash
    streamlit run Home.py
 
 
