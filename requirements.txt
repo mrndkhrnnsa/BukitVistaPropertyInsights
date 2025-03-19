@@ -1,9 +1,9 @@
 streamlit
+plotly
+scikit-learn
+joblib
 pandas
 numpy
 matplotlib
 seaborn
 BeautifulSoup
-sickit-learn
-plotly
-joblib
