@@ -25,7 +25,7 @@ The dashboard is interactive and updates dynamically based on user-selected filt
 To run the dashboard locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bv-property-insights-dashboard.git
+   git clone https://github.com/mrndkhrnnsa/BukitVistaPropertyInsights.git
 2. Install dependencies
    ```bash
    pip install -r requirements.txt
