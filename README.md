@@ -20,17 +20,4 @@ The dashboard was built using **Streamlit** and integrates two datasets:
 
 The dashboard is interactive and updates dynamically based on user-selected filters for a more personalized analysis.
 
-### Installation
-
-To run the dashboard locally, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mrndkhrnnsa/BukitVistaPropertyInsights.git
-2. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-3. Run streamlit app
-   ```bash
-   streamlit run Home.py
-
-
+Thank you! 
